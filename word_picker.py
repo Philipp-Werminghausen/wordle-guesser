@@ -1,10 +1,10 @@
 
 """
-Wordel.com word of the day guesser
+https://www.powerlanguage.co.uk/wordle/ of the day guesser
 -----------------------------------
 Created by Philipp Werminghausen
 -----------------------------------
-Description: Commandline app that tries to efficiently guess the word of the day from wordl.com with the user.
+Description: Commandline app that tries to efficiently guess the word of the day from https://www.powerlanguage.co.uk/wordle/ with the user.
 
 Notes:
 This app is not perfect. 38 words still need more than 6 guesses.
